@@ -1,4 +1,10 @@
+repo-backup.tar.gz
 
 /repo-backup/*
 !/repo-backup/.gitkeep
+
+/backup/*
+!/backup/.gitkeep
+
+repos_names.txt
 
